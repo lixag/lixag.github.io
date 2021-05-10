@@ -4,9 +4,8 @@
 > You can't control user stupidity.
 
 &raquo; 2021-05-10
-> 
-  - Wrinkles should merely indicate where smiles have been. --- Mark Twin 
-  - We try to understand concepts in three levels, intuitively, graphically and mathematically. But the intuitive is the most important.
+> - Wrinkles should merely indicate where smiles have been. --- Mark Twin 
+> - We try to understand concepts in three levels, intuitively, graphically and mathematically. But the intuitive is the most important.
   - 买猫话术from龙啸
     - 家里有几只猫猫呀？
     - 多大呀？
