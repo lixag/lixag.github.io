@@ -14,10 +14,10 @@
 >   - 都是家养的猫猫自己配对的吗？
 >   - 爸爸妈妈可以看一眼吗？
 
-> - Wrinkles should merely indicate where smiles have been. 
+> - Wrinkles should merely indicate where smiles have been. \
 >                                             -- Mark Twin 
 
-> - We try to understand concepts in three levels, intuitively, graphically and mathematically. But the intuitive is the most important. 
+> - We try to understand concepts in three levels, intuitively, graphically and mathematically. But the intuitive is the most important. \
 >                                                                                                                     -- Jonathan Gruber
 
 &raquo; 2021-05-08
