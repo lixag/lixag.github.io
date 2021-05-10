@@ -1,2 +1,6 @@
 title: lx
 theme: jekyll-theme-modernist
+
+navbar-links:
+  About Me: "aboutme"
+  Author's home: "https://deanattali.com"
