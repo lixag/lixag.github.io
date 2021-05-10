@@ -15,7 +15,7 @@
 >   - 爸爸妈妈可以看一眼吗？
 
 > - Wrinkles should merely indicate where smiles have been. \
->                                             -- Mark Twin 
+>                                             -- Mark Twain
 
 > - We try to understand concepts in three levels, intuitively, graphically and mathematically. But the intuitive is the most important. \
 >                                                                                                                     -- Jonathan Gruber
