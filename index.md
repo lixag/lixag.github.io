@@ -1,7 +1,7 @@
 # 时间线
 
-&raquo; 2021-05-08
-> You can't control user stupidity.
+&raquo; 2021-05-11
+> Constrained optimization, trade-offs, giving up x to get y.
 
 &raquo; 2021-05-10
 > - Wrinkles should merely indicate where smiles have been. --- Mark Twin 
@@ -18,5 +18,6 @@
 
 > - 北京真是个国际化都市，国际化到可以吃到美食中餐。
 
-&raquo; 2021-05-11
-> Constrained optimization, trade-offs, giving up x to get y.
+&raquo; 2021-05-08
+> You can't control user stupidity.
+
