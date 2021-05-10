@@ -17,3 +17,6 @@
 >   - 爸爸妈妈可以看一眼吗？
 
 > - 北京真是个国际化都市，国际化到可以吃到美食中餐。
+
+&raquo; 2021-05-11
+> Constrained optimization, trade-offs, giving up x to get y.
