@@ -1,5 +1,9 @@
 # 时间线
 
+&raquo; 2021-05-12
+> If you plan 100% team utilization, you're planning a parking lot, not a highway \
+>                                                               -- Christian Hujer
+
 &raquo; 2021-05-11
 > - 互联网话术大赏(oncall场景): 
 >   - A: hi, 发现了你们系统的一个bug
