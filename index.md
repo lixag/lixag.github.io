@@ -2,6 +2,7 @@
 
 &raquo; 2021-05-11
 > Constrained optimization, trade-offs, giving up x to get y.
+> 互联网话术大赏：A: 'hi, 发现了你们系统的一个bug', B: '这是个已知问题(不算bug🐶)'
 
 &raquo; 2021-05-10
 > - 北京真是个国际化都市，国际化到可以吃到美食中餐。
