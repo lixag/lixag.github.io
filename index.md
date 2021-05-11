@@ -1,7 +1,7 @@
 # 时间线
 
 &raquo; 2021-05-12
-> If you plan 100% team utilization, you're planning a parking lot, not a highway \
+> If you plan 100% team utilization, you're planning a parking lot, not a highway. \
 >                                                               -- Christian Hujer
 
 &raquo; 2021-05-11
