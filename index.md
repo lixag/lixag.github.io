@@ -2,10 +2,11 @@
 
 &raquo; 2021-05-12
 > From 最近抖音的鼓楼的107路公交 \
-> “我是个沉默不语的靠着车窗想念你的乘客 \
+> 我是个沉默不语的靠着车窗想念你的乘客 \
 > 当107路再次经过 时间是带走青春的电车 \
 > 我站在什刹海边一切甜蜜与我无关 \
-> 这是个拥挤的地方 而我却很孤单”
+> 这是个拥挤的地方 而我却很孤单
+> -- 赵雷《鼓楼》
 
 > If you plan 100% team utilization, you're planning a parking lot, not a highway. \
 >                                                               -- Christian Hujer
