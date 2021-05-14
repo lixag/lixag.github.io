@@ -13,20 +13,20 @@
 >                                                               -- Christian Hujer
 
 &raquo; 2021-05-11
-> - 互联网话术大赏(oncall场景): 
+> 互联网话术大赏(oncall场景): 
 >   - A: hi, 发现了你们系统的一个bug
 >   - B: 这是个已知问题(不算bug🐶)
 
-> - Constrained optimization, trade-offs, giving up x to get y.
+> Constrained optimization, trade-offs, giving up x to get y.
 
 
 &raquo; 2021-05-10
-> - 北京真是个国际化都市，国际化到可以吃到美食中餐。
+> 北京真是个国际化都市，国际化到可以吃到美食中餐。
 
-> - Wrinkles should merely indicate where smiles have been. \
+> Wrinkles should merely indicate where smiles have been. \
 >                                             -- Mark Twain
 
-> - We try to understand concepts in three levels, intuitively, graphically and mathematically. But the intuitive is the most important. \
+> We try to understand concepts in three levels, intuitively, graphically and mathematically. But the intuitive is the most important. \
 >                                                                                                                     -- Jonathan Gruber
 
 &raquo; 2021-05-08
