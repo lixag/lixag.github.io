@@ -1,8 +1,9 @@
 # 时间线
 
 &raquo; 2021-05-17
-> 'Network engineers in tech companies, always say that, "It's not a network problem."
- 
+> Network engineers in tech companies, \
+> always send me a mtr screen shoot, saying that,\
+> "The packet loss rate is 0%, it's not a network problem."😭
 
 &raquo; 2021-05-16
 > “你的故事 存在一个需要密码的盒子”
