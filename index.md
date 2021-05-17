@@ -1,5 +1,9 @@
 # 时间线
 
+&raquo; 2021-05-18
+> Champort说Sperioni很好的解释了为何一个作者很难让读者明白他表达出来的思想，\
+> 因为作者是从思想走向表述，而读者是从表述走到思想
+
 &raquo; 2021-05-17
 > Network engineers in tech companies, \
 > always send me a mtr screen shoot, saying that,\
