@@ -40,7 +40,7 @@
 
 
 &raquo; 2021-05-10
-> 北京真是个国际化都市，国际化到可以吃到美食中餐。
+> 北京真是个国际化都市，国际化到可以吃到美式中餐。
 
 > Wrinkles should merely indicate where smiles have been. \
 >                                             -- Mark Twain
