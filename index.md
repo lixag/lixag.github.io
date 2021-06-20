@@ -1,4 +1,8 @@
-# 时间线
+# Timeline
+
+&raquo; 2021-06-20
+> "AI: automated pattern recognition"
+
 
 &raquo; 2021-06-11
 > joke：All the best tests happen in prod anyway. 
