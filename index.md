@@ -1,5 +1,8 @@
 # Timeline
 
+&raquo; 2021-06-22
+> "技术上的了解会让美感变弱"
+
 &raquo; 2021-06-20
 > "AI: automated pattern recognition"
 
