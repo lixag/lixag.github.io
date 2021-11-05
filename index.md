@@ -1,5 +1,9 @@
 # Timeline
 
+
+&raquo; 2021-11-95
+> "All models are wrong, but some are useful"
+
 &raquo; 2021-06-24
 > "小镇青年永远生活在错位里"
 
