@@ -41,8 +41,8 @@ But I am not sure how many people can read traceroute well.
 > Constrained optimization, trade-offs, giving up x to get y.
 
 
-&raquo; 2021-05-10
-> 北京真是个国际化都市，国际化到可以吃到美式中餐。
+&raquo; 2021-05-10  
+北京真是个国际化都市，国际化到可以吃到美式中餐。
 
 > Wrinkles should merely indicate where smiles have been. \
 >                                             -- Mark Twain
