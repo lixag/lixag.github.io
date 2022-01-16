@@ -6,16 +6,16 @@
 > The best love essay：【一个虚假的春天】
 
 &raquo; 2021-11-05
-> "All models are wrong, but some are useful"
+> All models are wrong, but some are useful
 
 &raquo; 2021-06-24
-> "小镇青年永远生活在错位里"
+> 小镇青年永远生活在错位里
 
 &raquo; 2021-06-22
-> "技术上的了解会让美感变弱"
+> 技术上的了解会让美感变弱
 
 &raquo; 2021-06-20
-> "AI: automated pattern recognition"
+> AI: automated pattern recognition
 
 &raquo; 2021-06-11
 > joke: All the best tests happen in prod anyway. 
@@ -34,9 +34,9 @@ But I am not sure how many people can read traceroute well.
 >                                                               -- Christian Hujer
 
 &raquo; 2021-05-11
-> 互联网话术大赏(oncall场景): 
->   - A: hi, 发现了你们系统的一个bug。
->   - B: 这是个已知问题(不算bug🐶)。
+互联网话术大赏(oncall场景):  
+- A: hi, 发现了你们系统的一个bug。
+- B: 这是个已知问题(不算bug🐶)。
 
 > Constrained optimization, trade-offs, giving up x to get y.
 
