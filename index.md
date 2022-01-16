@@ -1,4 +1,6 @@
 # Timeline
+&raquo; 2022-01-17
+太宰治的书信体作品真是太温柔细腻了！
 
 &raquo; 2021-12-24
 > The best love essay：【一个虚假的春天】
@@ -15,7 +17,6 @@
 &raquo; 2021-06-20
 > "AI: automated pattern recognition"
 
-
 &raquo; 2021-06-11
 > joke: All the best tests happen in prod anyway. 
 
@@ -24,10 +25,10 @@
 > 因为作者是从思想走向表述，而读者是从表述走向思想。”
 
 &raquo; 2021-05-17
-> Network engineers in tech companies, \
-> always send me a mtr screen shoot, saying that,\
-> "The packet loss rate is 0%, it's not a network problem."😭 \
-> But I am not sure how many people can read traceroute well.
+Network engineers in tech companies, \
+always send me a mtr screen shoot, saying that,\
+"The packet loss rate is 0%, it's not a network problem."😭 \
+But I am not sure how many people can read traceroute well.
 
 > If you plan 100% team utilization, you're planning a parking lot, not a highway. \
 >                                                               -- Christian Hujer
