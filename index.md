@@ -1,9 +1,13 @@
 # Timeline
+
+&raquo; 2022-01-23
+> 在大部分时间里，我们并不存在，在小部分时间里，我在你不在或者你在我不在。最后还剩那么一点点时间里，你我都存在，就比如此刻。
+
 &raquo; 2022-01-17  
 太宰治的书信体作品真是太温柔细腻了！
 
 &raquo; 2021-12-24
-> The best love essay：【一个虚假的春天】
+The best love essay：【一个虚假的春天】
 
 &raquo; 2021-11-05
 > All models are wrong, but some are useful
